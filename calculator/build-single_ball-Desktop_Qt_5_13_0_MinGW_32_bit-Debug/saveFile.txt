@@ -1,0 +1,7 @@
+
+sin(x)+cos(x)^2+sin(200x)
+sin(x^2)*tan(3/x)
+sin(x^2)+tan(3x^2)
+sin(x)
+4cos(tan(x)^2)
+sin(x)
